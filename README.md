@@ -40,8 +40,9 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Notable Achievements
 
 - 🏅 [Recognized as a LinkedIn Top Voice in Computer Science](https://www.linkedin.com/feed/update/urn:li:activity:YOUR-ACTIVITY-ID)
--->
+
 ---
+-->
 
 ## 📊 GitHub Stats
 
