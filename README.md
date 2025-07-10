@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 About Me
 
-- 🔧 I'm a **Full-Stack Developer** with **2 years of experience** (plus **6 months of internship**) focused on building **scalable, high-performance website**.
+- 🔧 I'm a **Full-Stack(MERN) Developer** with **2 years of experience** (plus **6 months of internship**) focused on building **scalable, high-performance website**.
 - 🏢 Currently learning **Data Structure and Algorithms**, where I focus on **web performance, architecture, and optimizations, security**.
 - 📘 I am **passionate about Data Structures & Algorithms** — solving **LeetCode** problems almost daily!
-- 💰 I’ve been actively **investing and researching in Web3 and Blockchain** since 2020.
+- 💰 I’ve been actively **investing and researching in Web3 and AI** since 2024.
 - 🏋️‍♂️ A **dedicated Gym & Fitness enthusiast** — balancing tech with health and strength.
 
 ---
