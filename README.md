@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,aws,react,nodejs,express" />
 
 ---
-
+<!--
 ## 🚀 Notable Achievements
 
 - 🏅 [Recognized as a LinkedIn Top Voice in Computer Science](https://www.linkedin.com/feed/update/urn:li:activity:YOUR-ACTIVITY-ID)
-
+-->
 ---
 
 ## 📊 GitHub Stats
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-git-dev&layout=compact)
 
 ### 🔹 My GitHub Stats
-![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh-git-dev&show_icons=true&theme=default)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh-git-dev&show_icons=true&theme=default)
 
 ---
 
