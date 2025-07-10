@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 About Me
 
-- 🔧 I'm a **Full-Stack(MERN) Developer** with **2 years of experience** (plus **6 months of internship**) focused on building **scalable, high-performance website**.
+- 🔧 I'm a **Full-Stack(MERN) Developer** with **2 years of experience** (plus **3 days of internship**) focused on building **scalable, high-performance website**.
 - 🏢 Currently learning **Data Structure and Algorithms**, where I focus on **web performance, architecture, and optimizations, security**.
 - 📘 I am **passionate about Data Structures & Algorithms** — solving **LeetCode** problems almost daily!
 - 💰 I’ve been actively **investing and researching in Web3 and AI** since 2024.
@@ -32,9 +32,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💻 Languages and Tools:
-<!--
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,aws,react,nodejs,express" />
--->
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java" />
 
 ---
@@ -58,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tripathi1164/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE-ID/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sumit_tripathi/)
 
 ---
 
