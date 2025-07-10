@@ -46,10 +46,10 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats
 
 ### 🔹 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-git-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1164&layout=compact)
 
 ### 🔹 My GitHub Stats
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh-git-dev&show_icons=true&theme=default)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit1164&show_icons=true&theme=default)
 
 ---
 
@@ -60,4 +60,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-> _"Building scalable apps, cracking DSA, and exploring the future of Web3!"_ 🚀🌸
+> _"Building scalable Web-apps, cracking DSA, and exploring the future of Web3!"_ 🚀🌸
