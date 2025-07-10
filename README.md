@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Sumit Tripathi! 👋
 
-**👨‍💻 Senior Flutter & iOS Engineer | 🧠 DSA Enthusiast | 🌐 Web3 & Blockchain Investor | 🏅 LinkedIn Top Voice in Computer Science**
+**👨‍💻 Software Engineer | 🧠 DSA Enthusiast | 🌐 Website Investor**
 
 ---
 
@@ -32,8 +32,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💻 Languages and Tools:
-
+<!--
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,aws,react,nodejs,express" />
+-->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java" />
 
 ---
 <!--
