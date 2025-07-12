@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Sumit Tripathi! 👋
 
-**👨‍💻 Software Engineer | 🧠 DSA Enthusiast | 🌐 Website Investor**
+**👨‍💻 Software Engineer | 🧠 DSA Enthusiast | 🌐 Web Developer**
 
 ---
 
 ## 🔥 About Me
 
-- 🔧 I'm a **Full-Stack(MERN) Developer** with **2 years of experience** (plus **3 days of internship**) focused on building **scalable, high-performance website**.
+- 🔧 I'm a **Full-Stack Developer** with **2 years of experience** (plus **3 days of internship**) focused on building **scalable, high-performance website**.
 - 🏢 Currently learning **Data Structure and Algorithms**, where I focus on **web performance, architecture, and optimizations, security**.
 - 📘 I am **passionate about Data Structures & Algorithms** — solving **LeetCode** problems almost daily!
 - 💰 I’ve been actively **investing and researching in Web3 and AI** since 2024.
