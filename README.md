@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,vscode,github" />
 
 ---
 <!--
