@@ -49,8 +49,14 @@ You can click the Preview link to take a look at your changes.
 ### 🔹 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1164&layout=compact)
 
+### 🔹 My GitHub Streak
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit1164&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ### 🔹 My GitHub Stats
 ![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit1164&show_icons=true&theme=default)
+
 
 ---
 
