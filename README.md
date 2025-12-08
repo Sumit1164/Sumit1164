@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,vscode,github" />
+<img src="https://skillicons.dev/icons?i=c,mysql,html,css,js,react,nodejs,express,mongodb,python,vscode,git,github" />
 
 ---
 <!--
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - 🏅 [Recognized as a LinkedIn Top Voice in Computer Science](https://www.linkedin.com/feed/update/urn:li:activity:YOUR-ACTIVITY-ID)
 
 ---
--->
+
 
 ## 📊 GitHub Stats
 
@@ -56,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+-->
+
 
 ## 📬 Connect With Me
 
