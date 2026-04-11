@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 About Me
 
-- 🔧 I'm a **Full-Stack Developer** with **2 years of experience** (plus **virtual internship**) focused on building **scalable, high-performance website**.
+- 🔧 I'm a **Full-Stack Developer** with **1 years of experience** focused on building **scalable, high-performance website**.
 - 🏢 Currently learning **Data Structure and Algorithms**, where I focus on **web performance, architecture, and optimizations, security**.
 - 📘 I am **passionate about Data Structures & Algorithms** — solving **LeetCode** problems almost daily!
 - 💰 I’ve been actively **investing and researching in Web3 and AI** since 2024.
